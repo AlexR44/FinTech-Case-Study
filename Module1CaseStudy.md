@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-* What is the name of the company?
+* **What is the name of the company?**
     Katipult Technology Corp
 
 * When was the company incorporated? <br>
