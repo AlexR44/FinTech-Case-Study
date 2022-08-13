@@ -8,7 +8,8 @@
 * When was the company incorporated? <br>
     Katipult was founded in 2014 <br> [https://www.katipult.com/press-releases/katipult-founders-finalists-for-the-prestigious-ey-entrepreneur-of-the-year-2017-0]<br>[https://www.crunchbase.com/organization/katipult]
 * Who are the founders of the company? <br>
-    Brock Murray (CEO) and Pheak Meas (COO) <br> ![image](https://www.katipult.com/press-releases/katipult-founders-finalists-for-the-prestigious-ey-entrepreneur-of-the-year-2017-0)
+    Brock Murray (CEO) and Pheak Meas (COO) <br> ![image](https://user-images.githubusercontent.com/110504234/184503233-7acb321c-3be6-413c-a51a-f4b31b7b2acb.png)
+
 
 * How did the idea for the company (or project) come about?
 
