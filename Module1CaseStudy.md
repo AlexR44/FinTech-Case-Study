@@ -10,8 +10,7 @@
 * Who are the founders of the company? <br>
     Brock Murray (CEO) and Pheak Meas (COO) <br> ![image](https://user-images.githubusercontent.com/110504234/184503233-7acb321c-3be6-413c-a51a-f4b31b7b2acb.png)
 
-
-* How did the idea for the company (or project) come about?
+* How did the idea for the company (or project) come about? <br> Katipult’s CEO Brock Murray highlights that "those serving the private capital markets have remained low-tech endeavours. Very few industries as large as the private capital markets have not kept up. Yet private capital markets have largely stayed as a handshake-style business. Spreadsheets and email are about as high-tech as it gets".
 
 * How is the company funded? How much funding have they received?
 
