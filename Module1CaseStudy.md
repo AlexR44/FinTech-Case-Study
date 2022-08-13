@@ -6,8 +6,9 @@
     Katipult Technology Corp
 
 * When was the company incorporated?
-
+    Katipult was founded in 2014 [https://www.katipult.com/press-releases/katipult-founders-finalists-for-the-prestigious-ey-entrepreneur-of-the-year-2017-0],[https://www.crunchbase.com/organization/katipult]
 * Who are the founders of the company?
+    Brock Murray (CEO) and Pheak Meas (COO)
 
 * How did the idea for the company (or project) come about?
 
