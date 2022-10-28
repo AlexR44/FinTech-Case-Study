@@ -1,4 +1,4 @@
-# Module 1 Challenge: FinTech Case Sudy
+# FinTech Case Sudy
 ## Overview and Origin
 * **What is the name of the company?** <br>
     Katipult Technology Corp.<br><br>
